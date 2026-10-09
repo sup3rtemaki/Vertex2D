@@ -39,6 +39,12 @@
 *.app
 
 # Build directories
+[Dd]ebug/
+[Rr]elease/
+[Rr]eleases/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Bb]uild/
 build/
 Build/
 build-*/
